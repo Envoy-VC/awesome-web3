@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Web3 Resources
+description: A Curated List of Free Resources to get your hands dirty in Endless Realm of Web3
