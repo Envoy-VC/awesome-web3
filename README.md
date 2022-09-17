@@ -10,6 +10,10 @@
 
 <br>
 
+<a href="https://www.producthunt.com/posts/awesome-web3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;web3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=359454&theme=light" alt="Awesome&#0032;Web3 - Curated&#0044;&#0032;top&#0045;notch&#0044;&#0032;free&#0032;Web3&#0032;resources | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+---
+
 #### **Contributing:**
 
 Please take a quick look at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
