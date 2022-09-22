@@ -747,6 +747,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Hype                          | Build community for your NFT and Web3 projects: Solana, Flow, Ethereum, Avalanche, Polygon                                                                                                                                               | https://hype.day/                             |
 | Toools                        | A massive list of web3 tools for creators, devs, and DAOs.                                                                                                                                                                               | https://www.toools.tools/                     |
 | Leap Education                | Curated high quality, free Web3 resources                                                                                                                                                                                                | https://www.leapeducation.org/                |
+| mynfteam                      | Web3 collaboration platform                                                                                                                                                                                                              | https://mynf.team                             |
 
 <br>
 
