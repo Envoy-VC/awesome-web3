@@ -748,6 +748,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Toools                        | A massive list of web3 tools for creators, devs, and DAOs.                                                                                                                                                                               | https://www.toools.tools/                     |
 | Leap Education                | Curated high quality, free Web3 resources                                                                                                                                                                                                | https://www.leapeducation.org/                |
 | mynfteam                      | Web3 collaboration platform                                                                                                                                                                                                              | https://mynf.team                             |
+| NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                   | https://nfts2me.com/                             |
 
 <br>
 
