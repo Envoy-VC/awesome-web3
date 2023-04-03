@@ -227,6 +227,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Alchemy SDK | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go. | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
 | Moralis     | The Ultimate Web3 Development Platform.                                                                                                               | https://moralis.io/                                       |
 | thirdweb    | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                          | https://thirdweb.com/                                     |
+| Dynamic    | A powerful web3 auth developer platform. Smart and beautiful login flows for crypto-native users, simple onboarding flows for everyone else, and powerful developer tools that go beyond authentication.                                         | https://dynamic.xyz/                                     |
 
 <br>
 
