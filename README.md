@@ -18,7 +18,8 @@
 
 Please take a quick look at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
 
-- # [Contents](#contents)
+- [Awesome Web3 ](#awesome-web3-)
+      - [**Contributing:**](#contributing)
   - [✨ Basics of Computer Science](#-basics-of-computer-science)
   - [🔑 Basics of Cryptography](#-basics-of-cryptography)
   - [💵 Crypto economics](#-crypto-economics)
@@ -37,6 +38,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
   - [🆔 Identity](#-identity)
   - [🤵‍♂️ Client SDKs](#️-client-sdks)
   - [🔗 Blockchains](#-blockchains)
+  - [🌌 Web3 Projects](#-web3-projects)
   - [🏫 Learning Platforms](#-learning-platforms)
   - [📹 YouTube Channels](#-youtube-channels)
   - [📚 Web3 Books](#-web3-books)
@@ -222,11 +224,12 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 
 ## 🔨 SDKs
 
-| Name        | Description                                                                                                                                           | Link                                                      |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Alchemy SDK | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go. | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
-| Moralis     | The Ultimate Web3 Development Platform.                                                                                                               | https://moralis.io/                                       |
-| thirdweb    | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                          | https://thirdweb.com/                                     |
+| Name                      | Description                                                                                                                                           | Link                                                      |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Alchemy SDK               | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go. | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
+| Moralis                   | The Ultimate Web3 Development Platform.                                                                                                               | https://moralis.io/                                       |
+| thirdweb                  | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                          | https://thirdweb.com/                                     |
+| Kryptokrona Kotlin SDK    | Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.                                                       | https://github.com/kryptokrona/kryptokrona-kotlin-sdk     |
 
 <br>
 
@@ -429,6 +432,20 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Tron                | TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.                                    | https://tron.network/                                                            |
 | XinFin              | Enterprise Ready Hybrid Blockchain For Global Trade and Finance.                                                                                              | https://xinfin.org/                                                              |
 | ZkSync              | zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.                                                                            | https://zksync.io/                                                               |
+| Kryptokrona         | Private, fast and secure cryptocurrency from the nordic region.                                                                                               | https://kryptokrona.org                                                          |
+
+<br>
+
+[🔝 Back to Top](#contents)
+
+---
+
+## 🌌 Web3 Projects
+
+| Name                      | Description                                                                                                                  | Link                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Hugin Messenger Desktop   | Private messaging Web3 chat application for desktop, powered by the Kryptokrona Blockchain.                                  | https://github.com/kryptokrona/hugin-desktop                                     |
+| Hugin Messenger Mobile    | Private messaging Web3 chat application for mobile, powered by the Kryptokrona Blockchain.                                   | https://github.com/kryptokrona/hugin-mobile                                      |
 
 <br>
 
