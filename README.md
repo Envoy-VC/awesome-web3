@@ -18,34 +18,44 @@
 
 Please take a quick look at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
 
-- # [Contents](#contents)
-  - [✨ Basics of Computer Science](#-basics-of-computer-science)
-  - [🔑 Basics of Cryptography](#-basics-of-cryptography)
-  - [💵 Crypto economics](#-crypto-economics)
-  - [⛓️ Blockchain Basics](#️-blockchain-basics)
-  - [₿ Bitcoin](#-bitcoin)
-  - [Ξ Ethereum](#ξ-ethereum)
-  - [⟠ Solidity](#-solidity)
-  - [🪢 DAO Communities](#-dao-communities)
-  - [🔨 SDKs](#-sdks)
-  - [🔗 Build Blockchain using X](#-build-blockchain-using-x)
-  - [🏬 NFT Marketplace](#-nft-marketplace)
-  - [🌿 Node Providers](#-node-providers)
-  - [🗄️ File Storage](#️-file-storage)
-  - [🧑‍💻 Ethereum Development Environment](#-ethereum-development-environment)
-  - [💻 Ethereum Development IDEs](#-ethereum-development-ides)
-  - [🆔 Identity](#-identity)
-  - [🤵‍♂️ Client SDKs](#️-client-sdks)
-  - [🔗 Blockchains](#-blockchains)
-  - [🏫 Learning Platforms](#-learning-platforms)
-  - [📹 YouTube Channels](#-youtube-channels)
-  - [📚 Web3 Books](#-web3-books)
-  - [🎙️ Talks](#️-talks)
-  - [🎥 Movies](#-movies)
-  - [📻 Podcasts](#-podcasts)
-  - [📖 Magazines and Blogs](#-magazines-and-blogs)
-  - [👤 Communities](#-communities)
-  - [🌐 Useful Websites](#-useful-websites)
+## Contents
+
+[✨ Basics of Computer Science](#-basics-of-computer-science)
+[🔑 Basics of Cryptography](#-basics-of-cryptography)
+[💵 Crypto economics](#-crypto-economics)
+[⛓️ Blockchain Basics](#️-blockchain-basics)
+[₿ Bitcoin](#-bitcoin)
+[Ξ Ethereum](#ξ-ethereum)
+[⟠ Solidity](#-solidity)
+[🪢 DAO Communities](#-dao-communities)
+[🔨 SDKs](#-sdks)
+[✨ Basics of Computer Science](#-basics-of-computer-science)
+[🔑 Basics of Cryptography](#-basics-of-cryptography)
+[💵 Crypto economics](#-crypto-economics)
+[⛓️ Blockchain Basics](#️-blockchain-basics)
+[₿ Bitcoin](#-bitcoin)
+[Ξ Ethereum](#ξ-ethereum)
+[⟠ Solidity](#-solidity)
+[🪢 DAO Communities](#-dao-communities)
+[🔨 SDKs](#-sdks)
+[🔗 Build Blockchain using X](#-build-blockchain-using-x)
+[🏬 NFT Marketplace](#-nft-marketplace)
+[🌿 Node Providers](#-node-providers)
+[🗄️ File Storage](#️-file-storage)
+[🧑‍💻 Ethereum Development Environment](#-ethereum-development-environment)
+[💻 Ethereum Development IDEs](#-ethereum-development-ides)
+[🆔 Identity](#-identity)
+[🤵‍♂️ Client SDKs](#️-client-sdks)
+[🔗 Blockchains](#-blockchains)
+[🏫 Learning Platforms](#-learning-platforms)
+[📹 YouTube Channels](#-youtube-channels)
+[📚 Web3 Books](#-web3-books)
+[🎙️ Talks](#️-talks)
+[🎥 Movies](#-movies)
+[📻 Podcasts](#-podcasts)
+[📖 Magazines and Blogs](#-magazines-and-blogs)
+[👤 Communities](#-communities)
+[🌐 Useful Websites](#-useful-websites)
 
 ## ✨ Basics of Computer Science
 
@@ -151,7 +161,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------ |
 | BBC explains Ethereum                                      | Vitalik Buterin Ethereum Blockchain                                                                                                                                                                                                                | https://www.youtube.com/watch?v=0X33lgMbvdI                                                    | Video              |
 | Blockchain Framework & Platforms                           | Learn essential principles of blockchain platforms as well as their growth, progress, and important use cases. Dive deep into fundamental parts of developing apps on commonly used platforms including Ethereum, Hyperledger, and Quorum.         | https://www.edx.org/course/blockchain-framework-platforms                                      | Course             |
-| Decentralised Oracles: a comprehensive overview            | After bringing smart contracts to the world, the world must be brought to smart contracts                                                                                                                                                          | https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841 | Article            |
+| decentralized Oracles: a comprehensive overview            | After bringing smart contracts to the world, the world must be brought to smart contracts                                                                                                                                                          | https://medium.com/fabric-ventures/decentralized-oracles-a-comprehensive-overview-d3168b9a8841 | Article            |
 | Ethereum in Depth series                                   | The idea is to explain and describe in detail core behavior of the EVM. We will see how contracts are created, how message calls work, and take a look at everything related to data management, such as storage, memory, calldata, and the stack. | https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/                           | Article            |
 | EtherWorld                                                 | An Ethereum educational resource in the form of blogs and video guides                                                                                                                                                                             | https://etherworld.co/tag/ethereum/                                                            | Article, Video     |
 | EthHub                                                     | The goal of EthHub is to provide a single source for essential Ethereum information.                                                                                                                                                               | https://docs.ethhub.io/                                                                        | Documentation      |
@@ -205,7 +215,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Buildspace       | Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.                                                       | https://buildspace.so/                                                                               |
 | Cadena           | Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.                                                                  | https://cadena.dev/                                                                                  |
 | Developer DAO    | Build web3 with friends. New membership is officially open.                                                                                                           | https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe |
-| Launchcaster     | Share & discover the best new Web3 projects.                                                                                                                         | https://www.launchcaster.xyz/                                                                        |
+| Launchcaster     | Share & discover the best new Web3 projects.                                                                                                                          | https://www.launchcaster.xyz/                                                                        |
 | LearnWeb3DAO     | Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.                                                 | https://www.learnweb3.io/                                                                            |
 | Odyssey          | Odyssey is a learning DAO on a mission to onboard the next 1 million people to web3. We've written quality ELI5 guides for intro to web3, DeFi, DAOs, NFTs, and more. | https://www.odysseydao.com/                                                                          |
 | Web3 University  | Teaching Web3 to 20k+ developers worldwide.                                                                                                                           | https://www.web3.university/                                                                         |
@@ -312,11 +322,8 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | IPFS                          | A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.                                                                                                                                                                                                                                                                                                                                   | https://ipfs.io/                          |
 | Siacoin                       | Siacoin is a decentralized cloud storage platform secured by blockchain technology. Sia aims to build a data storage marketplace that outperforms traditional storage providers by using idle hard drive capacity on computers around the world.                                                                                                                                                                                                                                 | https://sia.tech/                         |
 | Storj                         | Storj is an open-source, decentralized cloud storage layer with inbuilt privacy and security. It enables developers to build applications with data protection and privacy in mind.                                                                                                                                                                                                                                                                                              | https://www.storj.io/                     |
-
-| Polybase                         | Polybase is an open-source decentralized alternative to Firebase, Firestore, Postgres, etc. Polybase is a database that understands tokens, wallets & ZK. | https://github.com/polybase/docs |
-
-| Swarm                         | Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies. | https://ethersphere.github.io/swarm-home/ |
-
+| Polybase                      | Polybase is an open-source decentralized alternative to Firebase, Firestore, Postgres, etc. Polybase is a database that understands tokens, wallets & ZK.                                                                                                                                                                                                                                                                                                                        | https://github.com/polybase/docs          |
+| Swarm                         | Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralized database services and scalable state-channel infrastructure for decentralized service economies. | https://ethersphere.github.io/swarm-home/ |
 
 <br>
 
@@ -648,7 +655,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Unconfirmed: Insights and Analysis From the Top Minds in Crypto | This weekly crypto podcast reveals how the marquee names in crypto are reacting to the week’s top headlines. With host Laura Shin, the guests also discuss what they’re thinking about these days and reveal what they believe is on the horizon in crypto                                                 | https://unchainedpodcast.com/category/unconfirmed/                       |
 | Vitalik Buterin on the Tim Ferris podcast                       | Vitalik Buterin provides a short overview of Ethereum and how it compares to Bitcoin and other platforms.                                                                                                                                                                                                  | https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/              |
 | Web3 with Sam KAmani                                            | Weekly podcast with monologues on all things Web3 and interviews with founders and investors of Web3 startups.                                                                                                                                                                                             | https://web3pod.xyz/                                                     |
-| Zero Knowledge                                                  | Where we talk about zero knowledge research and the decentralised web                                                                                                                                                                                                                                      | https://www.zeroknowledge.fm/                                            |
+| Zero Knowledge                                                  | Where we talk about zero knowledge research and the decentralized web                                                                                                                                                                                                                                      | https://www.zeroknowledge.fm/                                            |
 
 <br>
 
@@ -741,7 +748,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Token Daily                   | Token Daily is a place to discover trending news and products in crypto and blockchain.                                                                                                                                                  | https://www.tokendaily.co/                    |
 | Cryptominded                  | A curated directory of cryptocurrency resources                                                                                                                                                                                          | https://cryptominded.com                      |
 | NFT Tools & Resources - WXGMI | A curated database of NFT tools and resources. Find NFT analytics tools, marketplaces, and calendars on Ethereum, Solana, Polygon, BSC, and other blockchains.                                                                           | https://www.wxgmi.com/                        |
-| Directual                     | Directual is the first No-code platform for building Web3-apps. Blockchain integration, decentralised authentication, getting and performing transactions without writing any code, fast and easy, in a visual development way!          | https://www.directual.com/web3                |
+| Directual                     | Directual is the first No-code platform for building Web3-apps. Blockchain integration, decentralized authentication, getting and performing transactions without writing any code, fast and easy, in a visual development way!          | https://www.directual.com/web3                |
 | Phuture Tasks                 | Earn crypto rewards for your web3 contributions                                                                                                                                                                                          | https://dappback.com/phuture                  |
 | Lensdrop                      | Airdrop tokens to your Lens protocol followers with Lensdrop                                                                                                                                                                             | https://lensdrop.netlify.app/                 |
 | Lenster                       | Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿                                                                                                                              | https://lenster.xyz/                          |
@@ -754,7 +761,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Toools                        | A massive list of web3 tools for creators, devs, and DAOs.                                                                                                                                                                               | https://www.toools.tools/                     |
 | Leap Education                | Curated high quality, free Web3 resources                                                                                                                                                                                                | https://www.leapeducation.org/                |
 | mynfteam                      | Web3 collaboration platform                                                                                                                                                                                                              | https://mynf.team                             |
-| NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                   | https://nfts2me.com/                             |
+| NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                       | https://nfts2me.com/                          |
 
 <br>
 
