@@ -18,34 +18,35 @@
 
 Please take a quick look at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
 
-- # [Contents](#contents)
-  - [✨ Basics of Computer Science](#-basics-of-computer-science)
-  - [🔑 Basics of Cryptography](#-basics-of-cryptography)
-  - [💵 Crypto economics](#-crypto-economics)
-  - [⛓️ Blockchain Basics](#️-blockchain-basics)
-  - [₿ Bitcoin](#-bitcoin)
-  - [Ξ Ethereum](#ξ-ethereum)
-  - [⟠ Solidity](#-solidity)
-  - [🪢 DAO Communities](#-dao-communities)
-  - [🔨 SDKs](#-sdks)
-  - [🔗 Build Blockchain using X](#-build-blockchain-using-x)
-  - [🏬 NFT Marketplace](#-nft-marketplace)
-  - [🌿 Node Providers](#-node-providers)
-  - [🗄️ File Storage](#️-file-storage)
-  - [🧑‍💻 Ethereum Development Environment](#-ethereum-development-environment)
-  - [💻 Ethereum Development IDEs](#-ethereum-development-ides)
-  - [🆔 Identity](#-identity)
-  - [🤵‍♂️ Client SDKs](#️-client-sdks)
-  - [🔗 Blockchains](#-blockchains)
-  - [🏫 Learning Platforms](#-learning-platforms)
-  - [📹 YouTube Channels](#-youtube-channels)
-  - [📚 Web3 Books](#-web3-books)
-  - [🎙️ Talks](#️-talks)
-  - [🎥 Movies](#-movies)
-  - [📻 Podcasts](#-podcasts)
-  - [📖 Magazines and Blogs](#-magazines-and-blogs)
-  - [👤 Communities](#-communities)
-  - [🌐 Useful Websites](#-useful-websites)
+## Contents
+
+[✨ Basics of Computer Science](#-basics-of-computer-science)
+[🔑 Basics of Cryptography](#-basics-of-cryptography)
+[💵 Crypto economics](#-crypto-economics)
+[⛓️ Blockchain Basics](#️-blockchain-basics)
+[₿ Bitcoin](#-bitcoin)
+[Ξ Ethereum](#ξ-ethereum)
+[⟠ Solidity](#-solidity)
+[🪢 DAO Communities](#-dao-communities)
+[🔨 SDKs](#-sdks)
+[🔗 Build Blockchain using X](#-build-blockchain-using-x)
+[🏬 NFT Marketplace](#-nft-marketplace)
+[🌿 Node Providers](#-node-providers)
+[🗄️ File Storage](#️-file-storage)
+[🧑‍💻 Ethereum Development Environment](#-ethereum-development-environment)
+[💻 Ethereum Development IDEs](#-ethereum-development-ides)
+[🆔 Identity](#-identity)
+[🤵‍♂️ Client SDKs](#️-client-sdks)
+[🔗 Blockchains](#-blockchains)
+[🏫 Learning Platforms](#-learning-platforms)
+[📹 YouTube Channels](#-youtube-channels)
+[📚 Web3 Books](#-web3-books)
+[🎙️ Talks](#️-talks)
+[🎥 Movies](#-movies)
+[📻 Podcasts](#-podcasts)
+[📖 Magazines and Blogs](#-magazines-and-blogs)
+[👤 Communities](#-communities)
+[🌐 Useful Websites](#-useful-websites)
 
 ## ✨ Basics of Computer Science
 
@@ -205,7 +206,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Buildspace       | Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.                                                       | https://buildspace.so/                                                                               |
 | Cadena           | Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.                                                                  | https://cadena.dev/                                                                                  |
 | Developer DAO    | Build web3 with friends. New membership is officially open.                                                                                                           | https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe |
-| Launchcaster     | Share & discover the best new Web3 projects.                                                                                                                         | https://www.launchcaster.xyz/                                                                        |
+| Launchcaster     | Share & discover the best new Web3 projects.                                                                                                                          | https://www.launchcaster.xyz/                                                                        |
 | LearnWeb3DAO     | Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.                                                 | https://www.learnweb3.io/                                                                            |
 | Odyssey          | Odyssey is a learning DAO on a mission to onboard the next 1 million people to web3. We've written quality ELI5 guides for intro to web3, DeFi, DAOs, NFTs, and more. | https://www.odysseydao.com/                                                                          |
 | Web3 University  | Teaching Web3 to 20k+ developers worldwide.                                                                                                                           | https://www.web3.university/                                                                         |
@@ -222,12 +223,12 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 
 ## 🔨 SDKs
 
-| Name        | Description                                                                                                                                           | Link                                                      |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Alchemy SDK | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go. | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
-| Moralis     | The Ultimate Web3 Development Platform.                                                                                                               | https://moralis.io/                                       |
-| thirdweb    | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                          | https://thirdweb.com/                                     |
-| Dynamic    | A powerful web3 auth developer platform. Smart and beautiful login flows for crypto-native users, simple onboarding flows for everyone else, and powerful developer tools that go beyond authentication.                                         | https://dynamic.xyz/                                     |
+| Name        | Description                                                                                                                                                                                              | Link                                                      |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Alchemy SDK | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go.                                                    | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
+| Moralis     | The Ultimate Web3 Development Platform.                                                                                                                                                                  | https://moralis.io/                                       |
+| thirdweb    | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                                                                             | https://thirdweb.com/                                     |
+| Dynamic     | A powerful web3 auth developer platform. Smart and beautiful login flows for crypto-native users, simple onboarding flows for everyone else, and powerful developer tools that go beyond authentication. | https://dynamic.xyz/                                      |
 
 <br>
 
@@ -313,11 +314,8 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | IPFS                          | A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.                                                                                                                                                                                                                                                                                                                                   | https://ipfs.io/                          |
 | Siacoin                       | Siacoin is a decentralized cloud storage platform secured by blockchain technology. Sia aims to build a data storage marketplace that outperforms traditional storage providers by using idle hard drive capacity on computers around the world.                                                                                                                                                                                                                                 | https://sia.tech/                         |
 | Storj                         | Storj is an open-source, decentralized cloud storage layer with inbuilt privacy and security. It enables developers to build applications with data protection and privacy in mind.                                                                                                                                                                                                                                                                                              | https://www.storj.io/                     |
-
-| Polybase                         | Polybase is an open-source decentralized alternative to Firebase, Firestore, Postgres, etc. Polybase is a database that understands tokens, wallets & ZK. | https://github.com/polybase/docs |
-
+| Polybase                      | Polybase is an open-source decentralized alternative to Firebase, Firestore, Postgres, etc. Polybase is a database that understands tokens, wallets & ZK.                                                                                                                                                                                                                                                                                                                        | https://github.com/polybase/docs          |
 | Swarm                         | Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies. | https://ethersphere.github.io/swarm-home/ |
-
 
 <br>
 
@@ -755,7 +753,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Toools                        | A massive list of web3 tools for creators, devs, and DAOs.                                                                                                                                                                               | https://www.toools.tools/                     |
 | Leap Education                | Curated high quality, free Web3 resources                                                                                                                                                                                                | https://www.leapeducation.org/                |
 | mynfteam                      | Web3 collaboration platform                                                                                                                                                                                                              | https://mynf.team                             |
-| NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                   | https://nfts2me.com/                             |
+| NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                       | https://nfts2me.com/                          |
 
 <br>
 
