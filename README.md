@@ -16,7 +16,7 @@
 
 #### **Contributing:**
 
-Please take a quick look at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
+Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/awesome-web3/graphs/contributors); you rock!
 
 ## Contents
 
@@ -226,6 +226,7 @@ Please take a quick look at the [contribution guidelines]() first. Thanks to all
 | Name        | Description                                                                                                                                                                                              | Link                                                      |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | Alchemy SDK | The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go.                                                    | https://docs.alchemy.com/reference/alchemy-sdk-quickstart |
+| Privy | One simple library to add beautiful authentication flows and powerful connectors to your app. Get more users into your product faster, no matter who they are.                   | https://privy.io |
 | Moralis     | The Ultimate Web3 Development Platform.                                                                                                                                                                  | https://moralis.io/                                       |
 | thirdweb    | Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.                                                                                             | https://thirdweb.com/                                     |
 | Dynamic     | A powerful web3 auth developer platform. Smart and beautiful login flows for crypto-native users, simple onboarding flows for everyone else, and powerful developer tools that go beyond authentication. | https://dynamic.xyz/                                      |
