@@ -388,6 +388,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | Ether.js | The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.    | https://docs.ethers.io/        |
 | Web3.js  | Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket. | https://web3js.readthedocs.io/ |
+| @kolirt/vue-web3-auth  | Simple WalletConnect Web3Modal v2 integration package for Vue3 apps. | https://github.com/kolirt/vue-web3-auth |
 
 <br>
 
